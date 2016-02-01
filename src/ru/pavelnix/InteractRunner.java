@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /**
  * Class starts the calculator. It supports user input .
- * Класс для запуска калькулятора. Поддерживает ввод пользователя.
  */
 public class InteractRunner {
     public static void main(String[] arg) {

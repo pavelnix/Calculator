@@ -2,7 +2,6 @@ package ru.pavelnix;
 
 /**
  * Class implements calculator.
- * Класс реализует калькулятор.
  */
 public class Calculator {
 
